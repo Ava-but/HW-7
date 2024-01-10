@@ -1,7 +1,7 @@
-.red-links {
+ul ~ p{
     font-size: 24px;
-   }
+}
    
-  ul ~ p{
+   a[href^="https://"] {
     color: red;
-  }
+   }
